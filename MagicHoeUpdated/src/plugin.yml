@@ -1,0 +1,9 @@
+name: MagicTools
+version: 1.0
+main: me.Harrison.main
+description: MagicTools
+commands:
+    magictools:
+        description: MagicTools command
+    Test:
+        description: testing
